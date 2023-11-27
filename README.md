@@ -1,3 +1,3 @@
 ot-harjoitustyo6
-Testausta
-Testaust2
+Version 1.2
+Branch master (1)
